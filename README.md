@@ -27,8 +27,11 @@ go get github.com/neoloc/go-trader
 # build
 
 go install github.com/neoloc/go-trader/cmd/exchange@latest
+
 go install github.com/neoloc/go-trader/cmd/client@latest
+
 go install github.com/neoloc/go-trader/cmd/marketmaker@latest
+
 go install github.com/neoloc/go-trader/cmd/playback@latest
 
 # run
