@@ -4,7 +4,7 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"github.com/neoloc/go-hot"
-	. "github.com/robaho/go-trader/pkg/common"
+	. "github.com/neoloc/go-trader/pkg/common"
 	"golang.org/x/net/websocket"
 	"math/rand"
 	"net/http"

@@ -22,21 +22,18 @@ It was primarily developed to further my knowledge of Go and test its suitabilit
 
 # install
 
-go get github.com/robaho/go-trader
+go get github.com/neoloc/go-trader
 
 # build
 
-go install github.com/robaho/go-trader/cmd/exchange
-
-go install github.com/robaho/go-trader/cmd/client
-
-go install github.com/robaho/go-trader/cmd/marketmaker
-
-go install github.com/robaho/go-trader/cmd/playback
+go install github.com/neoloc/go-trader/cmd/exchange@latest
+go install github.com/neoloc/go-trader/cmd/client@latest
+go install github.com/neoloc/go-trader/cmd/marketmaker@latest
+go install github.com/neoloc/go-trader/cmd/playback@latest
 
 # run
 
-cd $GOPATH/src/github.com/robaho/go-trader/cmd
+cd $GOPATH/src/github.com/neoloc/go-trader/cmd
 
 exchange &
 

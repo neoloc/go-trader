@@ -9,7 +9,7 @@ import (
 	"github.com/quickfixgo/enum"
 	"github.com/quickfixgo/fix44/executionreport"
 	"github.com/quickfixgo/quickfix"
-	. "github.com/robaho/go-trader/pkg/common"
+	. "github.com/neoloc/go-trader/pkg/common"
 )
 
 type myApplication struct {

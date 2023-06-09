@@ -17,7 +17,7 @@ import (
 	"github.com/quickfixgo/fix44/ordercancelrequest"
 	"github.com/quickfixgo/fix44/securitydefinitionrequest"
 	"github.com/quickfixgo/quickfix"
-	. "github.com/robaho/go-trader/pkg/common"
+	. "github.com/neoloc/go-trader/pkg/common"
 	"github.com/shopspring/decimal"
 )
 

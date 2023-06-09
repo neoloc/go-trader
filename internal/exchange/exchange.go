@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	. "github.com/robaho/go-trader/pkg/common"
+	. "github.com/neoloc/go-trader/pkg/common"
 )
 
 type sessionOrder struct {

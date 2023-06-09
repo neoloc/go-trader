@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/robaho/go-trader/pkg/protocol"
+	"github.com/neoloc/go-trader/pkg/protocol"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 	"log"
@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/quickfixgo/quickfix"
-	"github.com/robaho/go-trader/internal/exchange"
-	"github.com/robaho/go-trader/pkg/common"
+	"github.com/neoloc/go-trader/internal/exchange"
+	"github.com/neoloc/go-trader/pkg/common"
 )
 
 import _ "net/http/pprof"

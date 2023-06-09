@@ -7,8 +7,8 @@ import (
 	"log"
 	"time"
 
-	. "github.com/robaho/go-trader/pkg/common"
-	"github.com/robaho/go-trader/pkg/connector"
+	. "github.com/neoloc/go-trader/pkg/common"
+	"github.com/neoloc/go-trader/pkg/connector"
 )
 
 type algoState int

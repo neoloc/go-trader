@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/robaho/go-trader/pkg/common"
+	. "github.com/neoloc/go-trader/pkg/common"
 )
 
 func TestWaitForKey(t *testing.T) {

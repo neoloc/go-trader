@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
-	. "github.com/robaho/go-trader/pkg/common"
-	"github.com/robaho/go-trader/pkg/connector"
+	. "github.com/neoloc/go-trader/pkg/common"
+	"github.com/neoloc/go-trader/pkg/connector"
 	"github.com/robaho/gocui"
 )
 

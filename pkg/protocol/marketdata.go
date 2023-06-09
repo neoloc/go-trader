@@ -2,7 +2,7 @@ package protocol
 
 import (
 	"bytes"
-	. "github.com/robaho/go-trader/pkg/common"
+	. "github.com/neoloc/go-trader/pkg/common"
 )
 
 // very simplified structure, only one book and associated trades per UDP packet, and it contains the complete book

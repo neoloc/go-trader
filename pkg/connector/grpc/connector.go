@@ -3,8 +3,8 @@ package grpc
 import (
 	"context"
 	. "github.com/robaho/fixed"
-	. "github.com/robaho/go-trader/pkg/common"
-	"github.com/robaho/go-trader/pkg/protocol"
+	. "github.com/neoloc/go-trader/pkg/common"
+	"github.com/neoloc/go-trader/pkg/protocol"
 	"google.golang.org/grpc"
 	"io"
 	"log"
