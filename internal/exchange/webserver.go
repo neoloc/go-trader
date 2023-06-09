@@ -3,7 +3,7 @@ package exchange
 import (
 	"crypto/md5"
 	"encoding/hex"
-	"github.com/gernest/hot"
+	"github.com/neoloc/go-hot"
 	. "github.com/robaho/go-trader/pkg/common"
 	"golang.org/x/net/websocket"
 	"math/rand"
